@@ -7,9 +7,9 @@
 
       Random random = new Random();
       bool playAgain = true;
-      String player;
-      String computer;
-      String answer;
+      String? player;
+      String? computer;
+      String? answer;
 
       while (playAgain)
       {
@@ -20,8 +20,8 @@
         while (player != "ROCK" && player != "PAPER" && player != "SCISSORS")
         {
           Console.WriteLine("Enter ROCK, PAPER, OR SCISSORS: ");
-          player = Console.ReadLine();
-          player = player.ToUpper();
+          player = Console.ReadLine()?.ToUpper();
+
         }
 
 
@@ -90,8 +90,7 @@
         }
 
         Console.Write("Would you like to play again? (Y/N)");
-        answer = Console.ReadLine();
-        answer = answer.ToUpper();
+        answer = Console.ReadLine()?.ToUpper();
 
         if (answer == "Y")
         {

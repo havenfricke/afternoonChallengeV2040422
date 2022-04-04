@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "afternoonChallengeV2040422/1.0.0": {
+        "runtime": {
+          "afternoonChallengeV2040422.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "afternoonChallengeV2040422/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

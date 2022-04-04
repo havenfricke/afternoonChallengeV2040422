@@ -1,0 +1,15 @@
+C:\source\codeworks\afternoonChallengeV2040422\bin\Debug\net6.0\afternoonChallengeV2040422.exe
+C:\source\codeworks\afternoonChallengeV2040422\bin\Debug\net6.0\afternoonChallengeV2040422.deps.json
+C:\source\codeworks\afternoonChallengeV2040422\bin\Debug\net6.0\afternoonChallengeV2040422.runtimeconfig.json
+C:\source\codeworks\afternoonChallengeV2040422\bin\Debug\net6.0\afternoonChallengeV2040422.dll
+C:\source\codeworks\afternoonChallengeV2040422\bin\Debug\net6.0\afternoonChallengeV2040422.pdb
+C:\source\codeworks\afternoonChallengeV2040422\obj\Debug\net6.0\afternoonChallengeV2040422.csproj.AssemblyReference.cache
+C:\source\codeworks\afternoonChallengeV2040422\obj\Debug\net6.0\afternoonChallengeV2040422.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\codeworks\afternoonChallengeV2040422\obj\Debug\net6.0\afternoonChallengeV2040422.AssemblyInfoInputs.cache
+C:\source\codeworks\afternoonChallengeV2040422\obj\Debug\net6.0\afternoonChallengeV2040422.AssemblyInfo.cs
+C:\source\codeworks\afternoonChallengeV2040422\obj\Debug\net6.0\afternoonChallengeV2040422.csproj.CoreCompileInputs.cache
+C:\source\codeworks\afternoonChallengeV2040422\obj\Debug\net6.0\afternoonChallengeV2040422.dll
+C:\source\codeworks\afternoonChallengeV2040422\obj\Debug\net6.0\refint\afternoonChallengeV2040422.dll
+C:\source\codeworks\afternoonChallengeV2040422\obj\Debug\net6.0\afternoonChallengeV2040422.pdb
+C:\source\codeworks\afternoonChallengeV2040422\obj\Debug\net6.0\afternoonChallengeV2040422.genruntimeconfig.cache
+C:\source\codeworks\afternoonChallengeV2040422\obj\Debug\net6.0\ref\afternoonChallengeV2040422.dll
